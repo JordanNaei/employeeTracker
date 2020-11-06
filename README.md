@@ -27,7 +27,7 @@ Exit (pass)
 
 # Application Functionalities illustration video
 ![Git](Assets/app.gif)
-[Video Link](https://drive.google.com/file/d/1c2nS3zIwf2QqYfQfTVau4YpzGzX5bUUJ/view)
+[Video Link](https://drive.google.com/file/d/1XU3UIVgc2UDYoebHQ9D4_Fx0QcipkFn2/view?usp=sharing)
 
 
 # Installation
